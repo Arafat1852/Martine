@@ -1,0 +1,105 @@
+*{margin: 0;padding: 0;}
+/*****Header Section Start*****/
+header{background-color: #eaefff;padding: 14px 0;}
+.sticky{position: fixed;z-index: 99999;width: 100%;background-color: #fff;box-shadow: 0 10px 15px rgb(0 0 0 / 5%);margin-top: -53px;}
+.navbar-nav{margin-left: 140px;}
+.btn{transition: .5s;background-color: #fe5c24;font-weight: 500;padding: 13px 30px;border-radius: 0;font-size: 16px;line-height: 1.5;color: #fff;text-transform: capitalize;font-family: 'Open Sans', sans-serif;}
+.btn-outline-success{border-color: #fe5c24;}
+.btn-outline-success:hover{color: #fff;background-color: #2493e0;border-color: #2493e0;}
+outline-success:active{color: #fff;background-color: #2493e0 !important;border-color: #2493e0 !important;}
+.nav-link{color: #0c3e72 !important;font-size: 16px !important;padding: 20px 22px !important;font-family: "Open Sans",sans-serif !important;text-transform: capitalize !important;}
+a:hover{color: #fe5c24 !important;}
+.container-fluid{padding-right: var(--bs-gutter-x,0rem) !important;padding-left: var(--bs-gutter-x,0rem) !important;}
+.container{padding-right: var(--bs-gutter-x,0rem) !important;padding-left: var(--bs-gutter-x,0rem) !important;}
+.head span{color: #fe5c24;margin-right: 20px;font-size: 14px;font-family: "Open Sans",sans-serif;font-weight: 400;line-height: 1.5;}
+.head a{color: #0c3e72;margin: 15px;background-color: transparent;font-family: "Open Sans",sans-serif;font-size: 14px;font-weight: 400;line-height: 1.5;text-decoration: none;}
+.head a:hover{color: #0c3e72 !important;}
+.heade a:hover{color: #fe5c24 !important;}
+.heade a{color: #0c3e72;margin-right: 20px;background-color: transparent;}
+.heade a i{color: #0c3e72;cursor: pointer;font-size: 14px;font-weight: 400;line-height: 1.5;}
+.heade span{margin-left: 4px;color: #0c3e72;font-size: 14px;font-family: "Open Sans",sans-serif;font-weight: 400;line-height: 1.5;}
+.heade span i{color: #fe5c24;}
+.heade{padding-left: 280px;}
+.nav-item .R:hover{color: #fe5c24 !important;}
+.R:hover + .X{display: inline-block;}
+.navbar-expand-lg .navbar-collapse{line-height: 30px !important;}
+.X li{width: 220px;}
+.nav-item .dropdown:hover .dropdown-menu{display: block;}
+.X:hover{display: block;}
+/*****Header Section End****/
+/*****Banner Section start**/
+.banner{background-image: url(../img/banner.png);background-position: center;background-repeat: no-repeat;background-size: cover;}
+.ratt{display: inline-block;}
+.ban h1{text-align: center;font-size: 120px;line-height: 1;text-transform: capitalize;color: #fff;font-weight: 600;margin-bottom: 22px;font-family: "Open Sans",sans-serif;}
+.ban p{text-align: center;font-size: 24px;color: #fff;font-family: "Open Sans",sans-serif;line-height: 28px;margin-bottom: 0;font-weight: 400;}
+.ban h1 button{margin-top: 60px;background-color: #2493e0;padding: 25px 80px;border: none;display: inline-block;transition: .5s;font-size: 16px;color: #fff;text-transform: capitalize;font-weight: 500;font-family: "Open Sans",sans-serif;}
+.ban h1 button:hover{color: #fff;background-color: #fe5c24;}
+.bann{margin-top: 26%;}
+.painn{background-color: white;margin-top: 183px;}
+.pain{padding-left: 35px;}
+.pain h1{padding: 28.5px 20px 20px 20px;display: inline-block;font-size: 14px;color: #0c3e72;font-weight: 400;font-family: "Open Sans",sans-serif;}
+.divider{border-bottom: 2px solid #2493e0!important;width: 80px;}
+/*****Banner Section End****/
+.booking{padding: 40px;box-shadow: 0 10px 40px 0 rgb(221 221 221 / 30%);}
+.booking form input{border: 1px solid #2493e0;padding: 12px 15px 14px 20px;margin-right: 20px;}
+.visit-down{padding: 130px 0px 40px 0px;}
+.visit-down h1{font-size: 46px;color: #0c3e72;line-height: 1.1;font-weight: 600;position: relative;margin-bottom: 26px;font-family: "Open Sans",sans-serif;text-align: center!important;}
+.visit-down p{text-align: center!important;font-family: "Open Sans",sans-serif;line-height: 28px;font-size: 16px;color: #777;font-weight: 400;padding: 0px 305px;}
+.air img{margin-bottom: 25px;}
+.yoo{margin-left: 100px;margin-bottom: 130px;}
+.air{margin-top: 60px;}
+.form{padding: 130px 0px;background-image: url(../img/form.png);background-position: center;background-repeat: no-repeat;background-size: cover;}
+.formal{height: 555px;width: 545px;background-color: white;padding: 50px;}
+.formal h1{color: #fe5c24;margin-bottom: 18px;line-height: 1.2em;font-size: 16px;font-weight: 400;}
+.formal h3{font-weight: 600;margin-bottom: 25px;line-height: 1.2em;font-size: 30px;color: #0c3e72;font-family: "Open Sans",sans-serif;}
+.formal h4{color: #848484;font-family: "Open Sans",sans-serif;line-height: 28px;font-size: 16px;font-weight: 400;}
+.formal h4 span{color: #0c3e72;font-family: "Open Sans",sans-serif;line-height: 28px;font-size: 16px;font-weight: 400;}
+.formal p{margin-bottom: 15px;color: #848484;font-family: "Open Sans",sans-serif;line-height: 28px;font-size: 16px;font-weight: 400;}
+.formal h4 span i{color: #ffc962;font-size: 14px;}
+.nakh{margin-bottom: 50px;}
+.hotel{padding: 0px 0px 130px 0px;}
+.my-card{padding: 33px 0;border-bottom: 1px solid #b3b2b2;}
+.my-card h1{color: #0c3e72;font-size: 24px;line-height: 1.2em;font-family: "Open Sans",sans-serif;font-weight: 500;margin-top: 33px;  }
+.my-card span{font-family: "Open Sans",sans-serif;font-size: 14px;}
+.my-card span i{font-weight: 900;color: #ffc962;font-size: 14px;}
+.my-card p{padding: 10px 0;color: #a2a2a2;font-family: "Open Sans",sans-serif;line-height: 28px;font-size: 16px;margin-bottom: 0;font-weight: 400;}
+.my-card h5{height: 5px;line-height: 1.2em;font-size: 16px;color: #0c3e72;font-family: "Open Sans",sans-serif;margin-bottom: 0.5rem;font-weight: 400;}
+.my-card h5 span{color: #fe5c24;line-height: 1.2em;font-size: 16px;font-family: "Open Sans",sans-serif;font-weight: 400;}
+.customer{background-color: #0c3e72;padding: 130px 0;}
+.custom h1{font-size: 46px;color: #fff;line-height: 1.1;font-weight: 600;position: relative;margin-bottom: 26px;font-family: "Open Sans",sans-serif;}
+.break{background-color: #0e477d;padding: 30px;font-weight: 500;height: 306px;width: 353px;margin: 50px 15px 0px 15px;}
+.break span i{font-weight: 900;font-size: 14px;color: #ffc962;}
+.break p{color: #fff;margin: 26px 0 32px;font-family: "Open Sans",sans-serif;line-height: 28px;font-size: 16px;font-weight: 400;width: 295px;}
+.break h1{color: #fff;line-height: 1.2em;font-size: 16px;font-family: "Open Sans",sans-serif;font-weight: 400;}
+.service{padding: 130px 0px;}
+.serve h1{font-size: 46px;color: #0c3e72;line-height: 1.1;font-weight: 600;position: relative;margin-bottom: 26px;font-family: "Open Sans",sans-serif;text-align: center!important;}
+.serve p{text-align: center!important;font-family: "Open Sans",sans-serif;line-height: 28px;font-size: 16px;color: #777;font-weight: 400;padding: 0px 305px;margin-bottom: 70px;}
+.tear img{margin-bottom: 32px;}
+.tear a{font-size: 24px;color: #0c3e72;margin-bottom: 20px;text-decoration: none;font-weight: 400;}
+.tear a:hover{color: #0c3e72 !important;}
+.tear p{color: #a2a2a2;font-family: "Open Sans",sans-serif;line-height: 28px;font-size: 16px;margin-bottom: 0;font-weight: 400;}
+.ghum:hover{color: #fe5c24;}
+/*****Footer-Start****/
+footer{background-color: #162b45;padding: 130px 0 0;}
+.foot{padding-bottom: 80px;}
+.footer-up h1{margin-bottom: 50px;font-weight: 600;font-size: 18px;color: #fff;text-transform: uppercase;line-height: 1.2em;font-family: "Open Sans",sans-serif;}
+h2{font-size: 0rem;}
+.footer-up h2 a{color: #fff;background-color: transparent;font-family: "Open Sans",sans-serif;text-decoration: none;transition: .5s;font-size: 15px;line-height: 1.5;font-weight: 400;}
+.oi{margin-left: -50px;}
+.oii{color: #fff;line-height: 1.8;font-family: "Open Sans",sans-serif;font-size: 16px;margin-bottom: 0;font-weight: 400;}
+.oii form input{height: 50px;border: none;width: 67%!important;font-weight: 400;padding-left: 20px;border-radius: 0;font-size: 13px;color: #999;background-color: #092742;border: 0 solid transparent;}
+.oii form button{background-color: #fe5c24;color: #fff;border-radius: 0;border-top-left-radius: 0;border-bottom-left-radius: 0;padding: 8px 8px;border: 0;font-size: 16px;font-weight: 400;position: relative;left: 0;height: 50px;width: 49px;}
+.oii p{margin-top: 25px;}
+.oii a{text-decoration: none;color: #fe5c24;display: block;font-weight: 400;line-height: 1.5;font-size: 14px;margin-bottom: 1rem;}
+.oii span{color: #fff;margin-right: 15px;transition: .5s;background-color: transparent;}
+.oii span i{line-height: 1;color: #fff;font-size: 15px;}
+.oii span i:hover{color: #fe5c24;}
+.iii{margin-left: 50px;}
+.er{background-color: #08223a;padding: 25px 15px;}
+.err h1{color: #777;font-family: "Open Sans",sans-serif;line-height: 28px;font-size: 16px;font-weight: 400;text-align: center;}
+.err a{text-decoration: none;color: #fe5c24;}
+/*****Footer-End******/
+.tear img{max-width: 100%;}
+img{max-width: 100%;}
+.formal{width: 100%;}
+.container{max-width: 0px important;}

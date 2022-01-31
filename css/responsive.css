@@ -1,0 +1,83 @@
+/*
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+@media (min-width: 768px) and (max-width: 1024px) {
+/***** CSS *****/
+  .heade{padding-left: 50px !important}
+  .head span{margin-right: 0px !important;}
+  .ban h1{font-size: 40px !important;}
+  .visit-down h1{font-size: 30px !important;line-height: 35px !important;}
+  .visit-down p{padding: 0px !important;}
+  .yoo{margin-left: 35px !important;margin-bottom: 70px !important;}
+  .formal{padding: 20px !important;height: 500px !important;}
+  .na{margin-bottom: 25px !important;}
+  .serve h1{font-size: 30px !important;line-height: 35px !important;}
+  .serve p{padding: 0px !important;margin-bottom: 30px !important;}
+  .custom h1{font-size: 30px !important;line-height: 35px !important;margin-bottom: 0px !important;}
+  .break {margin: 50px 12px 0px 7px !important;}
+  .lonely{display: none;}
+  h2 {width: 110px !important;}
+  .man{margin-bottom: 35px !important;}
+  .visit-down{padding: 70px 0px 25px 0px !important;}
+  .form{padding: 70px 0px !important;}
+  .hotel{padding: 0px 0px 70px 0px !important;}
+  .customer{padding: 70px 0 !important;}
+  .service{padding: 70px 0px !important;}
+  footer{padding: 70px 0 0 !important;}
+  .foot{padding-bottom: 30px !important;}
+  .air{margin-top: 25px !important;}
+  .booking{padding: 30px !important;}
+}
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+@media (min-width: 320px) and (max-width: 520px) {
+/***** CSS *****/
+  .ban h1{font-size: 30px !important;margin-bottom: 15px !important;line-height: 1.3 !important;}
+  .ban p{font-size: 24px !important;color: #fff !imporant;padding: 0px 20px !important;}
+  .visit-down p{padding: 0px 5px !important;margin-bottom: 40px !important;}
+  .serve p{padding: 0px !important;width: 90% !important;margin-left: 20px !important;margin-bottom: 20px !important;}
+  .iii{margin-left:0px !important;}
+  .heade{padding-left: 0px !important;text-align: center !important;}
+  .break{width: 92% !important;margin: 0px 15px 0px 15px !important;}
+  .row{--bs-gutter-x: 0rem !important;}
+  .heade a{margin-right: 10px !important;}
+  .head a{margin: 5px !important;}
+  .head span{margin-right: 10px !important;}
+  .head{text-align: center;margin-bottom: 10px !important;}
+  .power{margin-left: 15px !important;}
+  .navbar-toggler{margin-right: 15px !important;}
+  .navbar{padding: 22px 0px !important;}
+  .sticky{margin-top: -88px !important;}
+  .booking form input{border: 2px solid #2493e0 !important;padding: 11px 14px 13px 19px !important;margin-right: 0px !important;width: 100% !important;margin-bottom: 12px !important;}
+  .visit-down{padding: 70px 0px 0px 0px !important;}
+  .visit-down h1{font-size: 30px !important;line-height: 35px !important;max-width: 98% !important;margin-left: 5px !important;}
+  .hi{padding: 0px 15px !important;}
+  .air img{margin-bottom: 30px !important;}
+  .air{margin-top: 0px !important;}
+  .yoo{margin-bottom: 70px !important;}
+  .formal{padding: 20px !important;margin: 0px 20px !important;width: 90% !important;height: 500px !important;}
+  .form{padding: 70px 0px !important;}
+  .my-card{padding: 0px 15px 33px 15px !important;}
+  .hotel{padding: 0px 0px 70px 0px !important;}
+  .customer{padding: 70px 0 !important;}
+  .custom h1{font-size: 30px !important;line-height: 35px !important;padding-left: 15px !important;}
+  .lonely{display: none !important;}
+  .parate{display: none !important;}
+  .serve h1{font-size: 30px !important;line-height: 35px !important;width: 90% !important;margin-left: 20px !important;margin-bottom: 10px !important;}
+  .service{padding: 70px 0px !important;}
+  .tear{text-align: center !important;margin-bottom: 20px !important;}
+  .tear img{margin-bottom: 0px !important;}
+  .kobita{display: none !important;}
+  .err h1{font-size: 13px;}
+  .er{padding: 10px 15px 1important;}
+  .footer-up{text-align: center !important;}
+  .footer-up h1{margin: 20px 0px 10px 0px !important;}
+  footer{padding: 70px 0 0 !important;}
+  .oi{display:none !important;margin-bottom: 10px !important;}
+  .odd{padding: 0px 25px !important;}
+  .foot{padding-bottom: 25px !important;}
+  .bat{margin: 0px !important;}
+}
